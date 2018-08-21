@@ -1,2 +1,2 @@
 # firstrepo
-This is the first repository.Updated one file
+This is the first repository
